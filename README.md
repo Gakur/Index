@@ -17,5 +17,5 @@
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
-* [MIT] (https://github.com/Gakur/Index/blob/master/License)*
-Copyright (c) {year} **{List of contributors or company name}**
+* [MIT](https://github.com/Gakur/Index/blob/master/License)*
+Copyright (c) 2021 **Peter Gakure**
