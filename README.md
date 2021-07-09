@@ -2,20 +2,20 @@
 #### {Brief description of application}, {Date of current version}
 #### By **Peter Gakure**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a detailed website showcasing areas and countries that do coffee farming in Africa
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Clone the repository on git
+* Use $ git clone https/.....
+* Open the project on your favourite editor i.e VCcode
+* Open the project on live server
+* Use your favourite browser like crome
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+For Atom users dont use code .
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+1.CSS
+2.HTML
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+In case of any problem kindly contact us at www.petergakure.go.ke
 ### License
 * [MIT](https://github.com/Gakur/Index/blob/master/License)*
 Copyright (c) 2021 **Peter Gakure**
